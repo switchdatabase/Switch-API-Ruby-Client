@@ -1,4 +1,4 @@
-# swagger_client
+# Switch Database REST API Ruby client
 
 SwaggerClient - the Ruby gem for the Switch Database REST API
 
@@ -96,7 +96,6 @@ Class | Method | HTTP request | Description
  - [SwaggerClient::WhereItem](docs/WhereItem.md)
 
 
-## Documentation for Authorization
+## Authors
 
- All endpoints do not require authorization.
-
+* **[Mert Sarac](https://github.com/saracmert)** - *Initial work*
